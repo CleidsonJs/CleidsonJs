@@ -1,8 +1,8 @@
 
  ## Olá! Eu sou o Cleidson 
  
- <p> - 📚 Estudando JavaScript
- <p> -🎓 Graduado em Gestão da Tecnologia
+ <p> - 📚 Estudando Java
+ <p> - 🎓 Graduado em Gestão da Tecnologia
  
  ##
  
