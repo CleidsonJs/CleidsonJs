@@ -8,8 +8,8 @@
   
  ## ♾️ Curiosidades sobre mim
   
- <p> ° Formado em Gestão da Tecnologia da Informação
- <p> ° Entusiasta de Tecnologia desde 2013
+ <p> - Formado em Gestão da Tecnologia da Informação
+ <p> - Entusiasta de Tecnologia desde 2013
  
  ##
  
