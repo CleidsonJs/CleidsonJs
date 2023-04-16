@@ -3,9 +3,13 @@
  
  <p> - 🌎 Natural de São Paulo - SP, Brasil
  <p> - 🤓 Atualmente estudante de Analise e Desenvolvimento de Sistemas 
- <p> - 🎓 Graduado em Gestão da Tecnologia
- <p> - 🧠 
- <p> - 
+ <p> - 🤝 Aberto a propostas
+ <p> - 🧠 Estudando sobre Java
+  
+ ## ♾️ Curiosidades sobre mim
+  
+ <p> ° Formado em Gestão da Tecnologia da Informação
+ <p> ° Entusiasta de Tecnologia desde 2013
  
  ##
  
