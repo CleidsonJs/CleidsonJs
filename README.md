@@ -1,8 +1,11 @@
 
  ## Olá! Eu sou o Cleidson 
  
- <p> - 📚 Estudando Java
+ <p> - 🌎 Natural de São Paulo - SP, Brasil
+ <p> - 🤓 Atualmente estudante de Analise e Desenvolvimento de Sistemas 
  <p> - 🎓 Graduado em Gestão da Tecnologia
+ <p> - 🧠 
+ <p> - 
  
  ##
  
