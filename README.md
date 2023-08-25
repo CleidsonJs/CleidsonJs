@@ -2,7 +2,7 @@
  ## Olá! Eu sou o Cleidson J. Silva
  
  <p> - 🌎 Natural de São Paulo - SP, Brasil
- <p> - 🤓 Atualmente estudante de Analise e Desenvolvimento de Sistemas 
+ <p> - 🤓 Estudante de Analise e Desenvolvimento de Sistemas 
  <p> - 🤝 Aberto a propostas
  <p> - 🧠 Estudando sobre Java
   
