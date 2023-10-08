@@ -28,4 +28,4 @@
 ##
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CleidsonJs&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=1E90FF&title_color=1E90FF&text_color=FFF&hide_title=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CleidsonJs)](https://github.com/CleidsonJs/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CleidsonJs&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=1E90FF&title_color=1E90FF&text_color=FFF&hide_title=true))](https://github.com/CleidsonJs/github-readme-stats)
