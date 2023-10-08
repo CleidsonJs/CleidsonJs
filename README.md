@@ -26,6 +26,8 @@
   <a href="https://www.linkedin.com/in/cleidson-de-jesus-silva-80a210213" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
 ##
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CleidsonJs&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=1E90FF&title_color=1E90FF&text_color=FFF&hide_title=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CleidsonJs&theme=transparent&bg_color=000&border_color=0000&show_icons=true&icon_color=0000FF)](https://github.com/CleidsonJs/github-readme-stats)
+<div>
+<a href="https://github.com/CleidsonJs">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleidsonJs&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CleidsonJs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
