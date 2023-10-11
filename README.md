@@ -32,6 +32,8 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CleidsonJs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
  
-![snake gif](https://github.com/CleidsonJs/CleidsonJs/blob/output/github-contribution-grid-snake.gif)
-
+ ![Snake animation](https://github.com/CleidsonJs/CleidsonJs/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+ 
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=CleidsonJs&repo=CleidsonJs&theme=react)](https://github.com/CleidsonJs/CleidsonJs)
